@@ -1,2 +1,3 @@
-# InstagramCloneVanilla
-Instagram Clone using plain HTML, CSS, and JS
+# Instagram Clone Vanilla
+
+Instagram Clone using plain HTML (5), CSS, and Vanilla JS
